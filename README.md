@@ -1,7 +1,3 @@
----
-homepage: true
----
-
 # Welcome to GitHub Pages
 
 bb
