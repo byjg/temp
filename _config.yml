@@ -36,7 +36,7 @@ social:
         user: byjg
         repo: anydataset-db
     twitter:
-        enabled: false
+        enabled: true
         via: teste
         hash: teste
         account: teste
