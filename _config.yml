@@ -1,5 +1,5 @@
-name: Anydataset-db
-title: Anydataset-db
+name: Anydataset-db(1)
+title: Anydataset-db(2)
 
 project:
   version: 4.0.0
@@ -8,7 +8,10 @@ project:
 license:
   software: MIT
   software_url: https://opensource.org/licenses/MIT
-
+  
+  docs: MIT
+  docs_url: https://opensource.org/licenses/MIT
+  
 git_edit_address: https://github.com/byjg/anydataset-db/tree/master/
 
 links:
