@@ -1,5 +1,4 @@
 ---
-layout: full
 homepage: true
 ---
 
