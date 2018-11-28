@@ -18,6 +18,8 @@ links:
   header:
     - title: GitHub
       url: https://github.com/byjg/anydataset-db
+    - title: More
+      url: https://opensource.byjg.com/
   footer:
     - title: GitHub
       url: https://github.com/byjg/anydataset-db
@@ -48,5 +50,4 @@ analytics:
 
 # Build settings
 markdown: kramdown
-remote_theme: allejo/jekyll-docs-theme
-
+remote_theme: radareorg/cutter-jekyll-docs-theme
