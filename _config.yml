@@ -1,4 +1,4 @@
-name: Anydataset-db(1)
+name: Anydataset-db(1.1)
 title: Anydataset-db(2)
 
 project:
@@ -31,14 +31,22 @@ ui:
     trianglify: true
 
 social:
-  github:
-    user: byjg
-    repo: anydataset-db
+    github:
+        user: byjg
+        repo: anydataset-db
+    twitter:
+        enabled: false
+        via:
+        hash:
+        account:
+    facebook:
+        enabled: false
+        profileUrl:
 
-disqus: false
+analytics:
+    google: UA-123456-1
 
-description: >-
-  Lorem Ipsum
-  
+# Build settings
+markdown: kramdown
 remote_theme: allejo/jekyll-docs-theme
 
