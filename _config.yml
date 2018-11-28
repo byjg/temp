@@ -37,9 +37,9 @@ social:
         repo: anydataset-db
     twitter:
         enabled: false
-        via:
-        hash:
-        account:
+        via: teste
+        hash: teste
+        account: teste
     facebook:
         enabled: false
         profileUrl:
