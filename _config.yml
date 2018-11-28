@@ -28,7 +28,7 @@ links:
 ui:
   header:
     color1: "#080331"
-    color2: "#0099cc"
+    color2: "#0033cc"
     trianglify: true
 
 social:
