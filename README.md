@@ -1,3 +1,8 @@
+---
+layout: page
+homepage: true
+---
+
 ## Welcome to GitHub Pages
 
 aaa
