@@ -37,9 +37,9 @@ social:
         repo: anydataset-db
     twitter:
         enabled: true
-        via: teste
-        hash: teste
-        account: teste
+        via: 
+        hash: opensourcebyjg
+        account: 
     facebook:
         enabled: false
         profileUrl:
