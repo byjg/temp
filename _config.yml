@@ -1,8 +1,8 @@
-name: Anydataset-db(1.3)
+name: temp
 
 project:
   version: 4.0.0
-  download_url: https://github.com/byjg/anydata-set/releases
+  download_url: https://github.com/byjg/temp/releases
 
 license:
   software: MIT
@@ -11,19 +11,19 @@ license:
   docs: MIT
   docs_url: https://opensource.org/licenses/MIT
   
-git_edit_address: https://github.com/byjg/anydataset-db/tree/master/
+git_edit_address: https://github.com/byjg/temp/blob/master/
 
 links:
   header:
     - title: GitHub
-      url: https://github.com/byjg/anydataset-db
+      url: https://github.com/byjg/temp
     - title: ByJG
       url: https://opensource.byjg.com/
   footer:
     - title: GitHub
-      url: https://github.com/byjg/anydataset-db
+      url: https://github.com/byjg/temp
     - title: Issues
-      url: https://github.com/byjg/anydataset-db/issues
+      url: https://github.com/byjg/temp/issues
 
 ui:
   header:
@@ -34,7 +34,7 @@ ui:
 social:
     github:
         user: byjg
-        repo: anydataset-db
+        repo: temp
     twitter:
         enabled: false
         via: 
@@ -50,4 +50,4 @@ analytics:
 # Build settings
 markdown: kramdown
 remote_theme: allejo/jekyll-docs-theme
-#remote_theme: radareorg/cutter-jekyll-docs-theme
+
